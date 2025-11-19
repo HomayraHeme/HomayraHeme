@@ -1,6 +1,9 @@
- # 👋 Hi, I'm Homayra Binte Harun Heme
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/43b24c5e-cf53-4086-9120-d81e65162ba0" />
+ 
+ <h1 align="center">👋 Hi, I'm Homayra Binte Harun Heme</h1>
 
-### 🚀 MERN Stack Developer | Building Efficient Web Solutions
+<h3 align="center">🚀 MERN Stack Developer | Building Efficient Web Solutions</h3>
+
 
 ---
 
