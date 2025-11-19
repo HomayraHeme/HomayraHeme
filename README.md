@@ -45,11 +45,9 @@ I utilize the following technologies to bring ideas to life:
 
  ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"> **GITHUB STATISTICS & ANALYSIS:**
 
----
+ 
 
- ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"> **GITHUB STATISTICS & ANALYSIS:**
-
-![Snake Grid](https://raw.githubusercontent.com/HomayraHeme/আপনার-snake-repo-র-নাম/output/github-contribution-grid-snake.svg) 
+![Snake Grid](https://raw.githubusercontent.com/HomayraHeme/contribution-snake/dist/output/github-contribution-grid-snake.svg) 
 ---
 
 <div align="center">
