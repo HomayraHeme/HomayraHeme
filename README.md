@@ -1,4 +1,4 @@
- # 👋 Hi, I'm Homayra Heme
+ # 👋 Hi, I'm Homayra Binte Harun Heme
 
 ### 🚀 MERN Stack Developer | Building Efficient Web Solutions
 
@@ -47,7 +47,7 @@ I utilize the following technologies to bring ideas to life:
 
  
 
- ![Snake Grid](https://github.com/HomayraHeme/contribution-snake/blob/output/grid.svg)
+ 
 
 ---
 
