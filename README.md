@@ -47,7 +47,8 @@ I utilize the following technologies to bring ideas to life:
 
  
 
-![Snake Grid](https://raw.githubusercontent.com/HomayraHeme/contribution-snake/dist/output/github-contribution-grid-snake.svg) 
+ ![Snake Grid](https://github.com/HomayraHeme/contribution-snake/blob/output/grid.svg)
+
 ---
 
 <div align="center">
