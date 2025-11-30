@@ -65,12 +65,12 @@ I utilize the following technologies to bring ideas to life:
     <tr>
       <td>
         <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=HomayraHeme&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="stats graph" />
+         <img src="https://github-readme-stats.vercel.app/api?username=HomayraHeme&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
         </div>
       </td>
       <td>
         <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HomayraHeme&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HomayraHeme&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
         </div>
       </td>
     </tr>
