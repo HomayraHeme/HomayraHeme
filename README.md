@@ -70,7 +70,7 @@ I utilize the following technologies to bring ideas to life:
       </td>
       <td>
         <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HomayraHeme&show_icons=true&locale=en&layout=compact" alt="tahsinarashid" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HomayraHeme&show_icons=true&locale=en&layout=compact" alt="top language" />
         </div>
       </td>
     </tr>
