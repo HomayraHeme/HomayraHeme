@@ -60,22 +60,8 @@ I utilize the following technologies to bring ideas to life:
 
 | 📊 GitHub Stats | 🏆 Top Languages |
 | :---: | :---: |
-| <p align="center">
-  <table>
-    <tr>
-      <td>
-        <div align="center">
-         <img src="https://github-readme-stats.vercel.app/api?username=HomayraHeme&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
-        </div>
-      </td>
-      <td>
-        <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HomayraHeme&show_icons=true&locale=en&layout=compact" alt="top language" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</p>
+ | <a href="https://github.com/HomayraHeme"><img src="https://github-readme-stats.vercel.app/api?username=HomayraHeme&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="stats graph" /></a> | <a href="https://github.com/HomayraHeme"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HomayraHeme&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" /></a> |
+
 <br/>
 
 | 🔥 Commit Streak |
