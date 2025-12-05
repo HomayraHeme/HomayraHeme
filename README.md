@@ -14,7 +14,9 @@
 * 🔭 I am currently working on **MERN stack projects**, focusing on optimization and performance.
 * 🌱 I am exploring **Node.js**, **Firebase**, and advanced backend technologies.
 * 💬 Ask me about **React**, **Express**, and **MongoDB**.
-* 📫 Reach me at: **heme5674@gmail.com**
+* 📫 Reach me at: [heme5674@gmail.com](mailto:heme5674@gmail.com)
+* 🌐 Check out my portfolio: [My Portfolio](https://mern-stack-portfolio-heme.vercel.app/)
+ 
 ---
 
 ## 🛠️ My Technical Skills
