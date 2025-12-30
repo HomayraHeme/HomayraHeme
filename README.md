@@ -59,19 +59,25 @@ I utilize the following technologies to bring ideas to life:
 
 ---
 
- <div align="center">
+  <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
 
-| 📊 GitHub Stats | 🏆 Top Languages |
-| :---: | :---: |
-| <a href="https://github.com/HomayraHeme"><img src="https://github-readme-stats.vercel.app/api?username=HomayraHeme&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="stats graph" /></a> | <a href="https://github.com/HomayraHeme"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HomayraHeme&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" /></a> |
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <a href="https://github.com/HomayraHeme">
+      <img src="https://github-readme-stats.vercel.app/api?username=HomayraHeme&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/HomayraHeme">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HomayraHeme&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
+    </a>
+  </div>
 
-<br/>
-
-| 🔥 Commit Streak |
-| :---: |
-| <a href="https://github.com/HomayraHeme"><img src="https://streak-stats.demolab.com?user=HomayraHeme&theme=radical&hide_border=true" alt="streak graph" /></a> |
+  <div>
+    <a href="https://github.com/HomayraHeme">
+      <img src="https://streak-stats.demolab.com?user=HomayraHeme&theme=radical&hide_border=true" alt="Commit Streak" />
+    </a>
+  </div>
 
 </div>
+
 
 
  
