@@ -53,21 +53,9 @@ I utilize the following technologies to bring ideas to life:
 
  ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"> **GITHUB STATISTICS & ANALYSIS:**
 
- 
-
- 
-
 ---
 
  <div align="center">
- 
-
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HomayraHeme&theme=neon" alt="HomayraHeme" />
-</p>
-
-
 
 <!-- Divider GIF -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
