@@ -12,7 +12,8 @@
  I am a passionate and dedicated **MERN Stack Developer** focused on creating high-quality, scalable, and user-centric web applications.
 
 * 🔭 I am currently working on **MERN stack projects**, focusing on optimization and performance.
-* 🌱 I am exploring **Node.js**, **Firebase**, and advanced backend technologies.
+* ✅ I have learned **Node.js**, **Firebase**, and advanced backend technologies.
+* 🌱I am exploring **Next.js**.
 * 💬 Ask me about **React**, **Express**, and **MongoDB**.
 * 📫 Reach me at: [heme5674@gmail.com](mailto:heme5674@gmail.com)
 * 🌐 Check out my portfolio: [My Portfolio](https://mern-stack-portfolio-heme.vercel.app/)
@@ -58,11 +59,11 @@ I utilize the following technologies to bring ideas to life:
 
 ---
 
-<div align="center">
+ <div align="center">
 
 | 📊 GitHub Stats | 🏆 Top Languages |
 | :---: | :---: |
- | <a href="https://github.com/HomayraHeme"><img src="https://github-readme-stats.vercel.app/api?username=HomayraHeme&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="stats graph" /></a> | <a href="https://github.com/HomayraHeme"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HomayraHeme&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" /></a> |
+| <a href="https://github.com/HomayraHeme"><img src="https://github-readme-stats.vercel.app/api?username=HomayraHeme&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="stats graph" /></a> | <a href="https://github.com/HomayraHeme"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HomayraHeme&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" /></a> |
 
 <br/>
 
@@ -71,5 +72,6 @@ I utilize the following technologies to bring ideas to life:
 | <a href="https://github.com/HomayraHeme"><img src="https://streak-stats.demolab.com?user=HomayraHeme&theme=radical&hide_border=true" alt="streak graph" /></a> |
 
 </div>
+
 
  
