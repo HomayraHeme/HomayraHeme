@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/43b24c5e-cf53-4086-9120-d81e65162ba0" />
+ <img width="3780" height="1890" alt="Image" src="https://github.com/user-attachments/assets/4f82fff5-29cb-4c1b-a10c-be726268e03a" />
  
  <h1 align="center">👋 Hi, I'm Homayra Binte Harun Heme</h1>
 
