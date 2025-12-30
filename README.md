@@ -61,16 +61,49 @@ I utilize the following technologies to bring ideas to life:
 
  <div align="center">
 
-| 📊 GitHub Stats | 🏆 Top Languages |
-| :---: | :---: |
-| <a href="https://github.com/HomayraHeme"><img src="https://github-readme-stats.vercel.app/api?username=HomayraHeme&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="stats graph" /></a> | <a href="https://github.com/HomayraHeme"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HomayraHeme&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" /></a> |
+ <!-- Top Languages -->
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HomayraHeme&layout=compact&theme=transparent" alt="HomayraHeme" />
 
-<br/>
+<!-- Main Stats -->
+<p>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=HomayraHeme&show_icons=true&locale=en&theme=transparent" alt="HomayraHeme" />
+</p>
 
-| 🔥 Commit Streak |
-| :---: |
-| <a href="https://github.com/HomayraHeme"><img src="https://streak-stats.demolab.com?user=HomayraHeme&theme=radical&hide_border=true" alt="streak graph" /></a> |
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HomayraHeme&theme=neon" alt="HomayraHeme" />
+</p>
 
+<!-- Divider GIF -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3><img src="https://media.giphy.com/media/ZcnpXLn9Z4Vf6/giphy.gif" width="32">Statistics</h3>
+
+<!-- Summary Cards -->
+<div align="center">
+  <a href="https://github.com/HomayraHeme">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HomayraHeme&theme=transparent" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HomayraHeme&theme=transparent" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HomayraHeme&theme=transparent" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HomayraHeme&theme=transparent" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HomayraHeme&theme=transparent" height="180em" />
+  </a>
 </div>
+
+<!-- Activity Graph -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="left">⚡Activity Graph:</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HomayraHeme&theme=lucent" alt="Activity Graph for HomayraHeme" />
+</p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HomayraHeme&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<h3>🐍 Snake Game Repo View</h3>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
  
