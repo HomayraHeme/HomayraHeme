@@ -59,7 +59,7 @@ I utilize the following technologies to bring ideas to life:
 
 ---
 
-  <div align="center">
+ <div align="center">
 
 | 📊 GitHub Stats | 🏆 Top Languages |
 | :---: | :---: |
@@ -72,6 +72,5 @@ I utilize the following technologies to bring ideas to life:
 | <a href="https://github.com/HomayraHeme"><img src="https://streak-stats.demolab.com?user=HomayraHeme&theme=radical&hide_border=true" alt="streak graph" /></a> |
 
 </div>
-
 
  
