@@ -61,18 +61,6 @@ I utilize the following technologies to bring ideas to life:
 
  <div align="center">
 
- <!-- Top Languages -->
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HomayraHeme&layout=compact&theme=transparent" alt="HomayraHeme" />
-
-<!-- Main Stats -->
-<p>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=HomayraHeme&show_icons=true&locale=en&theme=transparent" alt="HomayraHeme" />
-</p>
-
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HomayraHeme&theme=neon" alt="HomayraHeme" />
-</p>
 
 <!-- Divider GIF -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
