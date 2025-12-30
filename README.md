@@ -63,7 +63,7 @@ I utilize the following technologies to bring ideas to life:
 
   <div style="display: flex; justify-content: center; gap: 20px;">
     <a href="https://github.com/HomayraHeme">
-      <img src="https://github-readme-stats.vercel.app/api?username=HomayraHeme&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="GitHub Stats" />
+    [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HomayraHeme&show_icons=true&theme=radical&count_private=true&hide_border=true)](https://github.com/HomayraHeme)
     </a>
     <a href="https://github.com/HomayraHeme">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HomayraHeme&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
