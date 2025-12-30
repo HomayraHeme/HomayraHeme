@@ -60,6 +60,13 @@ I utilize the following technologies to bring ideas to life:
 ---
 
  <div align="center">
+ 
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HomayraHeme&theme=neon" alt="HomayraHeme" />
+</p>
+
 
 
 <!-- Divider GIF -->
