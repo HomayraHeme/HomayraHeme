@@ -2,7 +2,9 @@
  
  <h1 align="center">👋 Hi, I'm Homayra Binte Harun Heme</h1>
 
-<h3 align="center">🚀 MERN Stack Developer | Building Efficient Web Solutions</h3>
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Building+Efficient+Web+Solutions" alt="Typing SVG" />
+</p>
 
 
 
