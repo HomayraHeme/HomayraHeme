@@ -82,8 +82,8 @@ I utilize the following technologies to bring ideas to life:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HomayraHeme&theme=lucent" alt="Activity Graph for HomayraHeme" />
 </p>
- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HomayraHeme&label=Profile%20Views&color=007bff&style=plastic" alt="Profile Views" />
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HomayraHeme&label=Profile%20Views&color=blueviolet&style=for-the-badge" height="35" alt="Profile Views" />
 </p>
 <h3>🐍 Snake Game Repo View</h3>
 <div align="center">
