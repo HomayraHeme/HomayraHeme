@@ -46,7 +46,7 @@ I utilize the following technologies to bring ideas to life:
 | **💼 LinkedIn** | [![LinkedIn Badge](https://img.shields.io/badge/-HomayraHeme-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/homayra-heme/) |
 | **📧 Email** | [![Email Badge](https://img.shields.io/badge/Email-heme5674@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:heme5674@gmail.com) |
 | **👤 Facebook** | [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/homayra.heme.75/) |
-| **🌐 Portfolio** | [![Portfolio Badge][My Portfolio](https://mern-stack-portfolio-heme.vercel.app/) |
+ | **🌐 Portfolio** | [![Portfolio Badge](https://img.shields.io/badge/-mern--stack--portfolio--heme.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://mern-stack-portfolio-heme.vercel.app/) |
 
 
  
