@@ -85,8 +85,10 @@ I utilize the following technologies to bring ideas to life:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HomayraHeme&theme=lucent" alt="Activity Graph for HomayraHeme" />
 </p>
 
-## 🏆 GitHub Trophies
- [![trophy](https://github-profile-trophy.vercel.app/?username=HomayraHeme)](https://github.com/ryo-ma/github-profile-trophy)
+ ## 🔥 GitHub Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HomayraHeme&theme=radical&hide_border=false" alt="GitHub Streak"/>
+</p>
 
 <h3>🐍 Snake Game Repo View</h3>
 <div align="center">
