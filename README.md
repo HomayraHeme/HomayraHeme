@@ -84,8 +84,10 @@ I utilize the following technologies to bring ideas to life:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HomayraHeme&theme=lucent" alt="Activity Graph for HomayraHeme" />
 </p>
-
-  ## 🔥 GitHub Streak 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HomayraHeme&show_icons=true&theme=radical" alt="Homayra Stats" />
+</p>
+ ## 🔥 GitHub Streak 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HomayraHeme&theme=radical&hide_border=false" alt="GitHub Streak"/>
 </p>
