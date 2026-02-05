@@ -86,9 +86,7 @@ I utilize the following technologies to bring ideas to life:
 </p>
 
 ## 🏆 GitHub Trophies
- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HomayraHeme&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="trophies" />
-</p>
+ [![trophy](https://github-profile-trophy.vercel.app/?username=HomayraHeme)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3>🐍 Snake Game Repo View</h3>
 <div align="center">
