@@ -3,9 +3,7 @@
  <h1 align="center">👋 Hi, I'm Homayra Binte Harun Heme</h1>
 
 <h3 align="center">🚀 MERN Stack Developer | Building Efficient Web Solutions</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HomayraHeme&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+
 
 
 ---
@@ -84,14 +82,9 @@ I utilize the following technologies to bring ideas to life:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HomayraHeme&theme=lucent" alt="Activity Graph for HomayraHeme" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HomayraHeme&show_icons=true&theme=radical" alt="Homayra Stats" />
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HomayraHeme&label=Profile%20Views&color=007bff&style=plastic" alt="Profile Views" />
 </p>
- ## 🔥 GitHub Streak 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HomayraHeme&theme=radical&hide_border=false" alt="GitHub Streak"/>
-</p>
-
 <h3>🐍 Snake Game Repo View</h3>
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
