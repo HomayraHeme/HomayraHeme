@@ -3,6 +3,9 @@
  <h1 align="center">👋 Hi, I'm Homayra Binte Harun Heme</h1>
 
 <h3 align="center">🚀 MERN Stack Developer | Building Efficient Web Solutions</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HomayraHeme&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
 
 
 ---
