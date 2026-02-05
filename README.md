@@ -83,7 +83,7 @@ I utilize the following technologies to bring ideas to life:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HomayraHeme&theme=lucent" alt="Activity Graph for HomayraHeme" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HomayraHeme)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=HomayraHeme)](https://git.io/streak-stats)
 
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HomayraHeme&label=Profile%20Views&color=blueviolet&style=for-the-badge" height="35" alt="Profile Views" />
