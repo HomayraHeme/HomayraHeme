@@ -1,0 +1,237 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyMLidXHyJp0JDeATd43N+CX",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/HomayraHeme/HomayraHeme/blob/main/Python%20learnig\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Ans to the ques no. 1:"
+      ],
+      "metadata": {
+        "id": "f-tvyq-oPMtb"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "\n",
+        "numbers = list(map(int, input(\"Enter numbers: \").split()))\n",
+        "\n",
+        "result = []\n",
+        "\n",
+        "for num in numbers:\n",
+        "    if num % 4 == 0 and num % 8 != 0:\n",
+        "        result.append(num)\n",
+        "\n",
+        "print(result)\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "bwWhWiV5PRYC",
+        "outputId": "25ab294e-cc1e-40bd-a63d-abc5005780e8"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Enter numbers: 4 6 8 12 16 20 24 28\n",
+            "[4, 12, 20, 28]\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Ans to the ques no 2\n"
+      ],
+      "metadata": {
+        "id": "sKpvPAPiQeqW"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "\n",
+        "def ratio(x, y):\n",
+        "    try:\n",
+        "        return (x + y) / (x * y)\n",
+        "    except ZeroDivisionError:\n",
+        "        return \"Error: Division not possible\"\n",
+        "\n",
+        "\n",
+        "x, y = map(float, input(\"Enter two values: \").split())\n",
+        "\n",
+        "print(ratio(x, y))\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "pviATzLgQjZK",
+        "outputId": "5997e495-86d6-4c83-f0b0-4ec542042c58"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Enter two values: 6 2\n",
+            "0.6666666666666666\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Ans to the ques no 3:\n"
+      ],
+      "metadata": {
+        "id": "pkZXLYbDRIcM"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "\n",
+        "with open(\"Data.txt\", \"r\") as file:\n",
+        "    text = file.read()\n",
+        "\n",
+        "words = text.split()\n",
+        "\n",
+        "longest_word = max(words, key=len)\n",
+        "\n",
+        "print(longest_word)\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "mjt6jwxGRPom",
+        "outputId": "5894df2e-ff6f-4e54-90a6-bbdd6bead81d"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "wonderful\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Ans to the ques no 4:"
+      ],
+      "metadata": {
+        "id": "cNSA3mz6UW3C"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "\n",
+        "sentence = input(\"Enter a sentence: \")\n",
+        "\n",
+        "words = sentence.split()\n",
+        "result = []\n",
+        "\n",
+        "for word in words:\n",
+        "    if word[0].lower() in \"aeiou\":\n",
+        "        result.append(word)\n",
+        "\n",
+        "print(result)\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "OKVgXOUWUaaf",
+        "outputId": "76b0b257-867d-4aab-fc8a-0840d8e14ad9"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Enter a sentence: An apple a day keeps the doctor away\n",
+            "['An', 'apple', 'a', 'away']\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Ans to the ques no 5:\n"
+      ],
+      "metadata": {
+        "id": "yfa3oaOcUymG"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "\n",
+        "word = input(\"Enter a word: \")\n",
+        "\n",
+        "if word.lower() == word[::-1].lower():\n",
+        "    print(\"Palindrome\")\n",
+        "else:\n",
+        "    print(\"Not Palindrome\")\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "GO-_NiAGU3Xc",
+        "outputId": "ca22e1b8-10eb-4cda-e5b9-2dea901f6f2e"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Enter a word: Radar\n",
+            "Palindrome\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
